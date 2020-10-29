@@ -2,3 +2,8 @@
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 12.0
+
+[submodule "OCA/l10n-spain"]
+	path = OCA/l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 12.0
